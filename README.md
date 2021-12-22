@@ -32,3 +32,7 @@ Step 4: Execute server.py file in attacker's computer to start Flask webserver.
 Step 5: Execute victim.py file in victim's computer to make a connection with the Server(ngrok URL).
 
 Step 6: Now, execute attacker.py file in attacker's computer to start spying on the victim.
+
+Note: An .exe for victim.py can be created via pyinstaller. 
+I am not responsible for any misuse of this tool.
+This was for educational purposes.
