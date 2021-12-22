@@ -1,5 +1,6 @@
 # Spyware-Python-
 Dependencies:
+
       Python 3.x
       OpenCV
       PyAutoGUI
