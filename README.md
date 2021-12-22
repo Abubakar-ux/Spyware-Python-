@@ -25,7 +25,7 @@ Step 2: Visit ngrok.com, create an account and download ngrok.exe and place it i
         Use authtoken for your created account for unlimited session.
         ./ngrok authtoken [YOUR_AUTH_TOKEN]
      
-Step 3: Create a mongo db cluster at https://cloud.mongodb.com/
+Step 3: Create a mongo db cluster at https://cloud.mongodb.com/. After creating the cluster, put your cluster IP connection in pymongo in server.py and victim.py
 
 Step 4: Execute server.py file in attacker's computer to start Flask webserver.
 
