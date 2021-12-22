@@ -9,7 +9,10 @@ Dependencies:
       Ngrok (helps us push our flask webserver on the Internet) (No need for Port Forwarding).
       
 Instructions:
+
 Step 1: Install all these libraries from pypi.
+     
+     
      pip install Flask
      pip install PyAutoGUI
      pip install opencv-python
@@ -18,6 +21,7 @@ Step 1: Install all these libraries from pypi.
      pip install requests
 
 Step 2: Visit ngrok.com, create an account and download ngrok.exe and place it in the same folder. 
+
         Use authtoken for your created account for unlimited session.
         ./ngrok authtoken [YOUR_AUTH_TOKEN]
      
